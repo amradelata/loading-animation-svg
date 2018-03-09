@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#299ED9;stroke:#009FE3;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#009FE3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#009FE3;stroke-miterlimit:10;stroke-dasharray:11.6571,11.6571;}
+</style>
+<circle id="XMLID_1_" class="st0" cx="50.8" cy="50.8" r="39.3" />
+
+
+
+
+
+
+
+<path id="XMLID_4_" class="st1" d="M30.4,57.5L30.4,57.5c-1.4,0-2.6-1.2-2.6-2.6V40.6c0-1.4,1.2-2.6,2.6-2.6h0
+	c1.4,0,2.6,1.2,2.6,2.6v14.3C33,56.3,31.8,57.5,30.4,57.5z">
+   <animateTransform id="asas"
+      attributeName="transform"
+      attributeype="XML"
+      type="translate"
+      dur="1s"
+      values="0,6;0,-6;0,6"
+      repeatCount="indefinite"/>
+
+
+
+</path>
+
+
+
+<path id="XMLID_6_" class="st1" d="M38.1,57.5L38.1,57.5c-1.4,0-2.6-1.2-2.6-2.6V40.6c0-1.4,1.2-2.6,2.6-2.6h0
+	c1.4,0,2.6,1.2,2.6,2.6v14.3C40.8,56.3,39.6,57.5,38.1,57.5z">
+<animateTransform id="asas"
+      attributeName="transform"
+      attributeype="XML"
+      type="translate"
+      begin=".1"
+      dur="1s"
+      values="0,6;0,-6;0,6"
+      repeatCount="indefinite"/>
+
+</path>
+
+
+
+<path id="XMLID_8_" class="st1" d="M44.9,57.5L44.9,57.5c-1.4,0-2.6-1.2-2.6-2.6V40.6c0-1.4,1.2-2.6,2.6-2.6h0
+	c1.4,0,2.6,1.2,2.6,2.6v14.3C47.5,56.3,46.3,57.5,44.9,57.5z">
+
+<animateTransform id="asas"
+      attributeName="transform"
+      attributeype="XML"
+      begin=".2"
+      type="translate"
+      dur="1s"
+      values="0,6;0,-6;0,6"
+      repeatCount="indefinite"/>
+</path>
+
+
+
+<path id="XMLID_7_" class="st1" d="M52.6,57.5L52.6,57.5c-1.4,0-2.6-1.2-2.6-2.6V40.6c0-1.4,1.2-2.6,2.6-2.6h0
+	c1.4,0,2.6,1.2,2.6,2.6v14.3C55.3,56.3,54.1,57.5,52.6,57.5z">
+
+
+
+<animateTransform id="asas"
+      attributeName="transform"
+      attributeype="XML"
+      begin=".3"
+      type="translate"
+      dur="1s"
+      values="0,6;0,-6;0,6"
+      repeatCount="indefinite"/>
+
+</path>
+
+
+
+<path id="XMLID_24_" class="st1" d="M60.9,57.5L60.9,57.5c-1.4,0-2.6-1.2-2.6-2.6V40.6c0-1.4,1.2-2.6,2.6-2.6h0
+	c1.4,0,2.6,1.2,2.6,2.6v14.3C63.5,56.3,62.3,57.5,60.9,57.5z">
+
+<animateTransform id="asas"
+      attributeName="transform"
+      attributeype="XML"
+      begin=".4"
+      type="translate"
+      dur="1s"
+      values="0,6;0,-6;0,6"
+      repeatCount="indefinite"/>
+
+
+</path>
+
+
+
+<path id="XMLID_23_" class="st1" d="M68.6,57.5L68.6,57.5c-1.4,0-2.6-1.2-2.6-2.6V40.6c0-1.4,1.2-2.6,2.6-2.6l0,0
+	c1.4,0,2.6,1.2,2.6,2.6v14.3C71.3,56.3,70.1,57.5,68.6,57.5z">
+
+
+<animateTransform id="asas"
+      attributeName="transform"
+      attributeype="XML"
+      begin=".5"
+      type="translate"
+      dur="1s"
+      values="0,6;0,-6;0,6"
+      repeatCount="indefinite"/>
+
+</path>
+
+
+<g id="XMLID_3_">
+
+
+	<circle id="XMLID_10_" class="st2" cx="50.8" cy="50.7" r="48.3">
+         <animateTransform attributeName="transform"
+            attributeype="XML"
+            type="rotate"
+            from="0 50 50"
+            to="360 50 50"
+            dur="10s"
+            repeatCount="indefinite" />
+   </circle>
+
+
+</g>
+</svg>
